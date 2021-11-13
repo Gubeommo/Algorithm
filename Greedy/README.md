@@ -94,7 +94,7 @@ print(result)
 Java
 ```java
 //먼저 문자열을 정수형으로 바꾸는 함수 integer.parseInt(문자열), 정수형을 문자열로 바꾼느 함수 integer.toString(정수형)
-//또한 파이썬 처럼 for문을 똑같이 구현하는건 힘들기에 문자열.charAt(순번쨰)로 해야함 (이작업은 문자열을 아스키코드로 변환시키는 작업)그리고 그 문자열을 더할때 '0'을 뺴줘야댐 
+//또한 파이썬 처럼 for문을 똑같이 구현하는건 힘들기에 문자열.charAt(순번쨰)로 해야함 (이작업은 문자열을 아스키코드로 변환시키는 작업)그리고 그 문자열을 더할때 '0'을 뺴줘야댐! 
 
 public class Greedy2 {
 	public static void main(String[] args) {
