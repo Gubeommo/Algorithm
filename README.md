@@ -6,7 +6,7 @@
 
 ## 동적계획법
 
-## 탐욕법(그리디)
+## [탐욕법(그리디)](https://github.com/Gubeommo/Algorithm/tree/main/Greedy)
 
 ## 그래프
 
